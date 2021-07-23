@@ -1,0 +1,73 @@
+Βοήθεια
+=========================
+Ο χειρισμός αυτής της εφαρμογής είναι αρκετά εύκολος
+και αναλύεται λεπτομερώς παρακάτω.
+
+• Aρχικά μόλις γίνει εκκίνηση της εφαρμογής ο χρήστης
+τοποθετείται στο σημείο εκκίνησης το οποίο είναι
+μια πιστή αναπαράσταση των δωματίων και χώρων του σπιτιού.
+
+• Ο χρήστης μπορεί να μεταβεί στο δωμάτιο που επιθυμεί 
+κάνοντας αριστερό κλικ στο συγκεκριμένο δωμάτιο.Στα δωμάτια 
+αναγράφεται το όνομα τους και για διευκόλυνση του χρήστη
+αναπαρίστανται με διαφορετικό χρώμα- τα χρώματα είναι
+κατάλληλα για ανθρώπους με αχρωματοψία.
+
+• Εφόσον ο χρήστης βρίσκεται στο δωμάτιο που επιθυμεί
+μπορεί να χειριστεί τις συσκευές που υποστηρίζει το σύστημα
+οι οποίες βρίσκονται στην δεξιά μεριά του παραθύρου.Ο 
+χρήστης μπορεί να ενεργοποιήσει ή να απενεργοποιήσει 
+αυτές τις συσκευές με αριστερό κλικ.Υπάρχουν σε 
+κάθε συσκευή οπτικά στοιχεία που γνωστοποιούν
+στον χρήστη εάν η εν λόγω συσκευή λειτουργεί ή όχι.
+
+• Στο κέντρο του παραθύρου υπάρχει μια εικόνα του δωματίου 
+που υπενθυμίζει και στο χρήστη που βρίσκεται.
+
+• Εφόσον ο χρήστης θέλει να αποχωρήσει από το δωμάτιο
+που βρίσκεται, στην αριστερή μεριά του παραθύρου υπάρχουν
+όλα τα δωμάτια του σπιτιού. Ο χρήστης μπορεί να μεταβεί σε
+όποιο από αυτά επιθυμεί με αριστερό κλικ πάνω στο αντίστοιχο 
+κουτάκι. Εναλλακτικά, μπορεί μέσω του 'House Layout' να 
+μεταφερθεί στην αρχική πρόσοψη του σπιτιού.
+
+• Εάν ο χρήστης επιθυμεί να τερματίσει την εφαρμογή τότε
+μπορεί να κάνει αριστερό κλικ στο 'X' που βρίσκεται
+στην πάνω δεξιά μεριά του παραθύρου.
+
+Help
+=========================
+Using this application is vey easy and is explained
+in detail with the following instructions.
+
+• Initially as soon as the user launches the application
+they are placed at the starting point which is
+a faithful representation of the rooms and spaces of the house.
+
+• The user can go to the room they want
+by left-clicking on the specific room. Τhe name of each room
+is displayed on top of it and for the convenience of the user
+they are represented in a different color - the colours
+are suitable for colour-blind individuals.
+
+• If the user is in the room they want they
+can operate the devices supported by the system
+which are located on the right side of the window.The
+user can enable or disable
+these devices by left-clicking them.
+Each device has visual cues that communicate
+to the user whether that device is working or not.
+
+• In the center of the window there is a picture of the room
+which also reminds the user where they are.
+
+• If the user wants to leave the room
+they are in, on the left side of the window there are
+all the rooms of the house. The user can go to
+whichever one they wish by left-clicking on the corresponding
+box. Alternatively, by clicking on 'House Layout' they can be
+transferred to the original facade of the house.
+
+• If the user wishes to terminate the application then
+they can left-click on the 'X' located
+at the top right of the window.
